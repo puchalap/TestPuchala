@@ -1,4 +1,4 @@
-#Test @ 1:10 pm#
+#Test @ 11:00 am#
 Param
 (
     [string]$ADServer,
